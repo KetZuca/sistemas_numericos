@@ -3,3 +3,7 @@
 /sistemas.obj
 /sistemas.pdb
 /vc140.pdb
+*.exe
+*.obj
+*.pdb
+*.ilk
